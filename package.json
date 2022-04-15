@@ -1,0 +1,22 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "This is repository to learn Git and Node",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biggie-pti/git-test.git"
+  },
+  "author": "Bigwell Baramasimbe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biggie-pti/git-test/issues"
+  },
+  "homepage": "https://github.com/biggie-pti/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
